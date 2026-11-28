@@ -4,57 +4,53 @@
 
 Premium wardrobe decluttering and organisation.
 
-## Brand brief
+## Brand foundation
 
-- Established: 2016
-- Location: Lagos, Nigeria
-- Core service: Transforming personal wardrobes into beautifully organised, functional spaces through professional decluttering, thoughtful arrangement and personalised wardrobe management.
-- Brand promise: Clients should not have to spend their valuable time trying to organise their wardrobes. OrganisedWardrobe brings the expertise and manpower to them.
+OrganisedWardrobe transforms wardrobes into beautiful, functional and well-organised spaces through professional decluttering and organisation.
 
-## About
+- **Mission:** To transform wardrobes into beautiful, functional and well-organised spaces through professional decluttering and organisation.
+- **Vision:** To become a leading premium wardrobe organisation brand, redefining how people manage and experience their wardrobes.
+- **Purpose:** To create space, restore order and simplify everyday living through organised wardrobes.
+- **Brand promise:** We don't just organise wardrobes; we transform the way people experience them.
+- **Core values:** Excellence, Professionalism, Integrity, Privacy, Creativity, Attention to Detail.
+- **Brand colours:** Black, White and Gold (client supplied).
+- **Location:** Lagos, Nigeria.
+- **OW Privilege:** A dedicated VIP experience/section.
 
-OrganisedWardrobe is a professional wardrobe decluttering and organisation company dedicated to helping individuals create functional, beautiful and well-organised wardrobe spaces.
+## Conversion strategy
 
-A wardrobe is more than a place to store clothes. It is a personal space that should reflect a client's lifestyle, taste and everyday needs.
+The site follows the agreed CLOSE+ approach and the emotional buying principles:
 
-Services help clients eliminate wardrobe clutter, maximise available space, rediscover forgotten fashion pieces and establish a more convenient way to manage clothing, shoes, bags and accessories. The service is brought directly to the client's home in a convenient, personalised and stress-free way.
+1. **Emotion first:** show the relief, calm and everyday ease that an organised wardrobe can create.
+2. **Clarity:** make the service and intended transformation easy to understand.
+3. **Proof:** use approved client photographs, real before/after work and testimonials only when supplied.
+4. **Offer:** explain the service and OW Privilege clearly once the client confirms the exact packages and inclusions.
+5. **Simplicity:** keep navigation and enquiry steps straightforward.
+6. **Urgency and scarcity:** do not add deadlines, limited slots or scarcity claims unless the business confirms they are genuine.
 
-## Target audience
+## Current implementation
 
-- Corporate executives and senior professionals
-- Business owners and entrepreneurs
-- High-income individuals and families
-- Celebrities and public figures
-- Fashion enthusiasts with extensive wardrobes
-- Couples with large personal wardrobes
-- Busy professionals who value convenience and privacy
+- Responsive single-page website foundation.
+- Black, white, warm gold and ivory visual system aligned to the supplied logo.
+- Story, What We Do, OW Privilege, Mission/Vision/Purpose, Core Values and enquiry sections.
+- Mobile navigation and responsive layouts.
+- Image areas are intentionally awaiting client confirmation. No supplied wardrobe photograph has been assigned to a page yet.
+- Contact details and enquiry destination are intentionally not invented; add after client confirms the preferred contact channel and details.
 
-## OW Privilege
+## Image approval queue
 
-A dedicated VIP experience / separate website section.
+The client supplied wardrobe inspiration/result photographs and a logo. Confirm the exact image intended for:
+- Homepage hero.
+- What We Do — scattered/before wardrobe.
+- What We Do — organised/after wardrobe.
+- Supporting gallery / OW Privilege.
 
-Potential privileges supplied in the client brief:
-- Priority appointment scheduling
-- Quarterly wardrobe maintenance
-- Seasonal wardrobe transitions
-- Priority access to new services
-- Personalised wardrobe consultations
-- Dedicated client service contact
-
-## Visual reference
-
-The client supplied a luxury walk-in wardrobe reference featuring a dark interior, black cabinetry, warm gold/brass framing and lighting, curated clothing and shoe displays, and a central upholstered ottoman.
-
-Treat this as a visual direction reference, not as a requirement to copy the pictured room exactly.
+Keep approved originals under `assets/` with descriptive filenames. Do not replace client photographs with stock imagery without approval.
 
 ## Project guardrails
 
-- This repository is separate from the Luxury Raiders website.
-- Do not reuse or modify Luxury Raiders production code or deployment settings.
-- Preserve the client's supplied brand wording and business facts unless approved changes are requested.
-- Confirm scope and any paid third-party services before committing to them.
-- Keep client-supplied images and assets organised under `assets/`.
-
-## Initial project status
-
-Repository created. Website implementation and asset integration are pending.
+- Work on `site-foundation`; do not alter `main` or publish without approval.
+- Keep this repository separate from Luxury Raiders.
+- Preserve the client's supplied brand wording and business facts.
+- Do not invent service packages, testimonials, results, client counts, guarantees, prices or scarcity.
+- Confirm any paid third-party services before committing to them.
